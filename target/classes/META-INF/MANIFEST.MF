@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: finns
+Build-Jdk: 11.0.1
+Main-Class: org.openshift.quickstarts.undertow.servlet.ServletServer
+Created-By: Maven Integration for Eclipse
+
